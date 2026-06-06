@@ -6,7 +6,7 @@ import random
 from dataclasses import dataclass
 from typing import Dict, List, Optional, Tuple
 from envs.deliveryNetwork import DeliveryNetwork
-from vrpconfig import Config
+from configs.vrpconfig import Config
 
 class Graph:
     def __init__(self, env: DeliveryNetwork, config: Config):

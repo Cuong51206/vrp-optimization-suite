@@ -6,7 +6,7 @@ import copy
 from dataclasses import dataclass
 from typing import Dict, List
 from envs.deliveryNetwork import DeliveryNetwork
-from vrpconfig import Config
+from configs.vrpconfig import Config
 
 @dataclass
 class Solution:

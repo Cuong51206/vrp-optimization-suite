@@ -5,7 +5,7 @@ from dataclasses import dataclass
 class Config:
     def __init__(self):
         try:
-            json_rc = open("./envs/vrpconfig.json", 'r')
+            json_rc = open("./configs/vrpconfig.json", 'r')
             config_json = json.load(json_rc)
             json_rc.close()
 
