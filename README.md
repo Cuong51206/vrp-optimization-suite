@@ -16,5 +16,5 @@ This repository showcases the evolution of algorithms used to solve the **Vehicl
 Ensure you have Python 3.8+ installed.
 ```bash
 git clone [https://github.com/Cuong51206/vrp-optimization-suite.git](https://github.com/Cuong51206/vrp-optimization-suite.git)
-cd VRP-Optimization-Suite
+cd vrp-optimization-suite
 pip install -r requirements.txt
