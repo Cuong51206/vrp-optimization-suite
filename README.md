@@ -18,3 +18,10 @@ Ensure you have Python 3.8+ installed.
 git clone [https://github.com/Cuong51206/vrp-optimization-suite.git](https://github.com/Cuong51206/vrp-optimization-suite.git)
 cd vrp-optimization-suite
 pip install -r requirements.txt
+```
+
+**2. Run python file (e.g.,):**
+```bash
+py -m algorithms.aco_basic
+```
+
